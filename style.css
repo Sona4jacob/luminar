@@ -51,13 +51,46 @@ ul li a:hover{
   left: -50px;
 }
 .img1{
-  width: 600px;
+  width: 100%;
 
 }
-.d1:hover{
+
+#d1:hover{
   box-shadow: 0 0 10px rgba(0,0,0,0.6);
   -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
   -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
     scale: 1.01;
+}
+#h1{
+  font-size: 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right
+}
+#c1:hover{
+  box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    scale: 1.01;
+}
+#c2:hover{
+  box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    scale: 1.01;
+}
+#c3:hover{
+  box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    scale: 1.01;
+}
+.card-img-top{
+  width: 100%;
+}
+#c3{
+  width: 100%;
 }
