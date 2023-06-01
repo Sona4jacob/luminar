@@ -1,0 +1,63 @@
+body{
+  background-color: rgb(250, 249, 249);
+}
+ul li a:hover{
+  color: blueviolet;
+}
+.h1 h1{
+  margin-left: -60px;
+  font-size: 50px;
+  position: absolute;
+  top: -380px;
+  text-align: start;
+}
+.h1{
+  width: 550px;
+}
+.h1 p{
+  text-align: start;
+}
+.p1
+{
+  text-align: start;
+  position: absolute;
+  top: -148px;
+  left: -50px;
+}
+.b1{
+  background-color: rgb(107, 4, 155);
+  width: 20%;
+  font-weight: bolder;
+  border:rgb(107, 4, 155) ;
+  border-radius: 24px;
+  padding: 2%;
+  color: aliceblue;
+  position: sticky;
+  top: 10px;
+  }
+  
+  .h2 h1{
+    margin-left: -60px;
+    font-size: 50px;
+    position: absolute;
+    top: -380px;
+    text-align: start;
+  }
+  .p2
+{
+  text-align: start;
+  position: absolute;
+  top: -217px;
+  left: -50px;
+}
+.img1{
+  width: 600px;
+
+}
+.d1:hover{
+  box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    scale: 1.01;
+}
